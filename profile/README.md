@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D0D0D,100:8B5CF6&height=220&section=header&text=SCIOX&fontSize=90&fontColor=39FF88&animation=fadeIn&fontAlignY=38&desc=Software%20Studio&descAlignY=60&descSize=22" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D0D0D,100:0A2E1F&height=220&section=header&text=SCIOX&fontSize=90&fontColor=39FF88&animation=fadeIn&fontAlignY=38&desc=Software%20Studio&descAlignY=60&descSize=22" width="100%"/>
 </p>
 
 <p align="center">
@@ -31,16 +31,37 @@
 
 <h2 align="center">🛠️ Tech Stack</h2>
 
+<p align="center"><b>Frontend</b></p>
 <p align="center">
   <img src="https://img.shields.io/badge/React-0D0D0D?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/Next.js-0D0D0D?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
   <img src="https://img.shields.io/badge/TypeScript-0D0D0D?style=for-the-badge&logo=typescript&logoColor=3178C6"/>
+  <img src="https://img.shields.io/badge/Tailwind-0D0D0D?style=for-the-badge&logo=tailwindcss&logoColor=06B6D4"/>
+</p>
+
+<p align="center"><b>Backend & Cloud</b></p>
+<p align="center">
   <img src="https://img.shields.io/badge/Node.js-0D0D0D?style=for-the-badge&logo=nodedotjs&logoColor=339933"/>
   <img src="https://img.shields.io/badge/Python-0D0D0D?style=for-the-badge&logo=python&logoColor=3776AB"/>
   <img src="https://img.shields.io/badge/Django-0D0D0D?style=for-the-badge&logo=django&logoColor=39FF88"/>
-  <img src="https://img.shields.io/badge/PHP-0D0D0D?style=for-the-badge&logo=php&logoColor=777BB4"/>
   <img src="https://img.shields.io/badge/PostgreSQL-0D0D0D?style=for-the-badge&logo=postgresql&logoColor=4169E1"/>
-  <img src="https://img.shields.io/badge/Shopify-0D0D0D?style=for-the-badge&logo=shopify&logoColor=7AB55C"/>
-  <img src="https://img.shields.io/badge/WordPress-0D0D0D?style=for-the-badge&logo=wordpress&logoColor=21759B"/>
+  <img src="https://img.shields.io/badge/Supabase-0D0D0D?style=for-the-badge&logo=supabase&logoColor=3FCF8E"/>
+  <img src="https://img.shields.io/badge/Docker-0D0D0D?style=for-the-badge&logo=docker&logoColor=2496ED"/>
+</p>
+
+<p align="center"><b>Mobile & Games</b></p>
+<p align="center">
+  <img src="https://img.shields.io/badge/React_Native-0D0D0D?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/Expo-0D0D0D?style=for-the-badge&logo=expo&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Unity-0D0D0D?style=for-the-badge&logo=unity&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C%23-0D0D0D?style=for-the-badge&logo=csharp&logoColor=white"/>
+</p>
+
+<p align="center"><b>Data Science & AI</b></p>
+<p align="center">
+  <img src="https://img.shields.io/badge/Pandas-0D0D0D?style=for-the-badge&logo=pandas&logoColor=white"/>
+  <img src="https://img.shields.io/badge/scikit--learn-0D0D0D?style=for-the-badge&logo=scikitlearn&logoColor=F7931E"/>
+  <img src="https://img.shields.io/badge/OpenAI-0D0D0D?style=for-the-badge&logo=openai&logoColor=white"/>
 </p>
 
 ---
@@ -49,7 +70,7 @@
 
 <p align="center">
   <a href="mailto:gerencia@sciox.studio">
-    <img src="https://img.shields.io/badge/Email-gerencia@sciox.studio-8B5CF6?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Email-gerencia@sciox.studio-0D0D0D?style=for-the-badge&logo=gmail&logoColor=39FF88"/>
   </a>
   <a href="https://sciox.studio">
     <img src="https://img.shields.io/badge/Website-sciox.studio-39FF88?style=for-the-badge&logo=googlechrome&logoColor=black"/>
@@ -57,5 +78,5 @@
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8B5CF6,100:0D0D0D&height=120&section=footer" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A2E1F,100:0D0D0D&height=120&section=footer" width="100%"/>
 </p>
