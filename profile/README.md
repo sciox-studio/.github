@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/sciox-studio/.github/main/profile/sciox-logo.png" width="100%" alt="Sciox Software Studio"/>
+   <img src="https://raw.githubusercontent.com/sciox-studio/.github/main/profile/sciox-banner.png.png" width="100%" alt="Sciox Software Studio"/>
 </p>
 
 <p align="center">
