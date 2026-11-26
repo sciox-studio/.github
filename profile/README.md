@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D0D0D,100:0A2E1F&height=220&section=header&text=SCIOX&fontSize=90&fontColor=39FF88&animation=fadeIn&fontAlignY=38&desc=Software%20Studio&descAlignY=60&descSize=22" width="100%"/>
+  <img src="https://raw.githubusercontent.com/sciox-studio/.github/main/profile/sciox-logo.png" width="100%" alt="Sciox Software Studio"/>
 </p>
 
 <p align="center">
