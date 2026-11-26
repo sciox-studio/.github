@@ -80,3 +80,6 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A2E1F,100:0D0D0D&height=120&section=footer" width="100%"/>
 </p>
+  <a href="https://www.linkedin.com/company/sciox-studio">
+    <img src="https://img.shields.io/badge/LinkedIn-Sciox-0D0D0D?style=for-the-badge&logo=linkedin&logoColor=39FF88"/>
+  </a>
