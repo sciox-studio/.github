@@ -74,15 +74,6 @@
   </a>
   <a href="https://sciox.studio">
     <img src="https://img.shields.io/badge/Website-sciox.studio-39FF88?style=for-the-badge&logo=googlechrome&logoColor=black"/>
-  </a>
-   <a href="https://www.linkedin.com/company/sciox-studio">
-    <img src="https://img.shields.io/badge/LinkedIn-Sciox-0D0D0D?style=for-the-badge&logo=linkedin&logoColor=39FF88"/>
-  </a>
-</p>
-
-<a href="https://www.linkedin.com/company/sciox-software-studio">
-    <img src="https://img.shields.io/badge/LinkedIn-Sciox-0D0D0D?style=for-the-badge&logo=linkedin&logoColor=39FF88"/>
-  </a>
-  <a href="https://www.linkedin.com/company/sciox-studio">
+  <a href="https://www.linkedin.com/company/sciox-software-studio">
     <img src="https://img.shields.io/badge/LinkedIn-Sciox-0D0D0D?style=for-the-badge&logo=linkedin&logoColor=39FF88"/>
   </a>
